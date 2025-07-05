@@ -19,9 +19,14 @@ This project detects major earthquakes in real-time using AWS services and sends
 
 ## 📸 Screenshots
 
-- ✅ DynamoDB table with alert data  
-- ✅ Email alert screenshot  
-- ✅ Lambda function tested successfully
+### 📬 Email Alert Screenshot  
+![Email Alert](email-alert.png)
+
+### 🗃 DynamoDB Table Entry  
+![DynamoDB Screenshot](dynamodb-table.png)
+
+### 🧪 Lambda Test Output  
+![Lambda Screenshot](lambda-output.png)
 
 ## 📄 Created by
 
