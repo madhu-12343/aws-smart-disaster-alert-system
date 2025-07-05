@@ -26,7 +26,7 @@ This project detects major earthquakes in real-time using AWS services and sends
 <img src="dynamodb-table.png" alt="DynamoDB Table" width="500"/>
 
 ### 🧪 Lambda Test Output  
-<img src="lambda-output.png" alt="Lambda Output" width="700"/>
+<img src="lambda-output.png" alt="Lambda Output" width="500"/>
 
 ## 📄 Created by
 
